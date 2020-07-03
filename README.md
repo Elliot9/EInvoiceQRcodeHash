@@ -1,7 +1,7 @@
 ### Install
 
 ```php
-  composer require elliot9/einvoiceqrcodehash
+  composer require elliot9/e-invoice-qrcode-hash
 ```
 
 ### Configuration
